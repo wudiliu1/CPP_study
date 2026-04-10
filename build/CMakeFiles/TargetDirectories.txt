@@ -1,3 +1,0 @@
-/home/ldk/ldk/CPP_study/build/CMakeFiles/myapp.dir
-/home/ldk/ldk/CPP_study/build/CMakeFiles/edit_cache.dir
-/home/ldk/ldk/CPP_study/build/CMakeFiles/rebuild_cache.dir
