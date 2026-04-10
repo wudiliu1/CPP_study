@@ -73,43 +73,43 @@ CMakeFiles/myapp.dir/src/add.cpp.o: CMakeFiles/myapp.dir/flags.make
 CMakeFiles/myapp.dir/src/add.cpp.o: ../src/add.cpp
 CMakeFiles/myapp.dir/src/add.cpp.o: CMakeFiles/myapp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ldk/ldk/CPP_study/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/myapp.dir/src/add.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myapp.dir/src/add.cpp.o -MF CMakeFiles/myapp.dir/src/add.cpp.o.d -o CMakeFiles/myapp.dir/src/add.cpp.o -c /home/ldk/ldk/CPP_study/src/add.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myapp.dir/src/add.cpp.o -MF CMakeFiles/myapp.dir/src/add.cpp.o.d -o CMakeFiles/myapp.dir/src/add.cpp.o -c /home/ldk/ldk/CPP_study/src/add.cpp
 
 CMakeFiles/myapp.dir/src/add.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myapp.dir/src/add.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ldk/ldk/CPP_study/src/add.cpp > CMakeFiles/myapp.dir/src/add.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ldk/ldk/CPP_study/src/add.cpp > CMakeFiles/myapp.dir/src/add.cpp.i
 
 CMakeFiles/myapp.dir/src/add.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myapp.dir/src/add.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ldk/ldk/CPP_study/src/add.cpp -o CMakeFiles/myapp.dir/src/add.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ldk/ldk/CPP_study/src/add.cpp -o CMakeFiles/myapp.dir/src/add.cpp.s
 
 CMakeFiles/myapp.dir/src/main.cpp.o: CMakeFiles/myapp.dir/flags.make
 CMakeFiles/myapp.dir/src/main.cpp.o: ../src/main.cpp
 CMakeFiles/myapp.dir/src/main.cpp.o: CMakeFiles/myapp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ldk/ldk/CPP_study/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/myapp.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myapp.dir/src/main.cpp.o -MF CMakeFiles/myapp.dir/src/main.cpp.o.d -o CMakeFiles/myapp.dir/src/main.cpp.o -c /home/ldk/ldk/CPP_study/src/main.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myapp.dir/src/main.cpp.o -MF CMakeFiles/myapp.dir/src/main.cpp.o.d -o CMakeFiles/myapp.dir/src/main.cpp.o -c /home/ldk/ldk/CPP_study/src/main.cpp
 
 CMakeFiles/myapp.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myapp.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ldk/ldk/CPP_study/src/main.cpp > CMakeFiles/myapp.dir/src/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ldk/ldk/CPP_study/src/main.cpp > CMakeFiles/myapp.dir/src/main.cpp.i
 
 CMakeFiles/myapp.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myapp.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ldk/ldk/CPP_study/src/main.cpp -o CMakeFiles/myapp.dir/src/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ldk/ldk/CPP_study/src/main.cpp -o CMakeFiles/myapp.dir/src/main.cpp.s
 
 CMakeFiles/myapp.dir/src/sub.cpp.o: CMakeFiles/myapp.dir/flags.make
 CMakeFiles/myapp.dir/src/sub.cpp.o: ../src/sub.cpp
 CMakeFiles/myapp.dir/src/sub.cpp.o: CMakeFiles/myapp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ldk/ldk/CPP_study/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/myapp.dir/src/sub.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myapp.dir/src/sub.cpp.o -MF CMakeFiles/myapp.dir/src/sub.cpp.o.d -o CMakeFiles/myapp.dir/src/sub.cpp.o -c /home/ldk/ldk/CPP_study/src/sub.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myapp.dir/src/sub.cpp.o -MF CMakeFiles/myapp.dir/src/sub.cpp.o.d -o CMakeFiles/myapp.dir/src/sub.cpp.o -c /home/ldk/ldk/CPP_study/src/sub.cpp
 
 CMakeFiles/myapp.dir/src/sub.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myapp.dir/src/sub.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ldk/ldk/CPP_study/src/sub.cpp > CMakeFiles/myapp.dir/src/sub.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ldk/ldk/CPP_study/src/sub.cpp > CMakeFiles/myapp.dir/src/sub.cpp.i
 
 CMakeFiles/myapp.dir/src/sub.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myapp.dir/src/sub.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ldk/ldk/CPP_study/src/sub.cpp -o CMakeFiles/myapp.dir/src/sub.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ldk/ldk/CPP_study/src/sub.cpp -o CMakeFiles/myapp.dir/src/sub.cpp.s
 
 # Object files for target myapp
 myapp_OBJECTS = \
