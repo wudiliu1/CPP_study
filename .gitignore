@@ -1,0 +1,8 @@
+# Build directory
+build/
+
+# IDE configuration
+.vscode/
+
+# CMake generated files
+CMakeCache.txt
